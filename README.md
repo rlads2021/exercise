@@ -2,7 +2,7 @@
 
 ## 領取小練習
 
-1. 前往 <https://classroom.github.com/a/81ieUjK4> 接受小練習邀請 (需登入 GitHub, **已確定要修課者**，請**配對姓名**)
+1. 前往 <https://classroom.github.com/a/7aXOzbi4> 接受小練習邀請 (需登入 GitHub, **已確定要修課者**，請**配對姓名**)
 1. 接受小練習後，前往**個人小練習 repo**  
 (位於 `https://github.com/rlads2021/exercise-<你的 GitHub 帳號>`, e.g. `https://github.com/rlads2021/exercise-liao961120`。這個 repo 只有你和助教看得到)
 1. 使用 GitHub Desktop (或 git command line) 將 `https://github.com/rlads2021/exercise-<你的 GitHub 帳號>.git` clone 到自己電腦上
