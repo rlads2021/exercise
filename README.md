@@ -22,4 +22,4 @@
 
 ## 小練習說明
 
-小練習相關要求寫在小練習檔案中：[`index.Rmd`](./index.Rmd)。輸出的 HTML 版本見：<https://rlads2021.github.io/hw5/>。
+小練習相關要求寫在小練習檔案中：[`index.Rmd`](./index.Rmd)。輸出的 HTML 版本見：<https://rlads2021.github.io/exercise/>。
