@@ -1,0 +1,46 @@
+---
+author: "未命名 一般系 B01001001"
+title: "練習題"
+date: |
+  | 2021-04-15
+output:
+  html_document:
+    number_sections: no
+    highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,comment = '#>',error=TRUE, results = 'hold', out.width='70%', fig.align = 'center')
+```
+
+## 練習題
+
+請將 data.csv[^src] 讀入成一個 data frame，並：
+
+1. 請刪除重複的資料
+1. 請使用105-108年的資料
+1. 請將各縣市各年各月份的垃圾產生量 `GarbageGenerated` 製作成各縣市年度總垃圾量`TotalGarbage`摘要表
+1. 將請寫一個函數分類各縣市所在的區域，並為摘要表新增區域`region`欄位
+1. 繪出以各縣市為x軸座標，以`TotalGarbage`為y軸，並以年份為facet，用顏色標示區域`region`
+
+[^src]: 資料來源：https://data.gov.tw/dataset/89022
+
+
+```{r}
+# 讀取資料
+```
+
+
+```{r}
+# 分類縣市函數
+```
+
+
+```{r}
+# 資料整理
+```
+
+
+```{r}
+# 視覺化
+```
